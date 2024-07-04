@@ -805,13 +805,13 @@ h2{
         height: 1.6rem;
         margin: 0 0.3rem;
     }
-    .locali {
+    .localidad {
         font-size: 0.6rem;
     }
     .celular {
         font-size: 0.6rem;
     }
-    .localidad{
+    .ubicacion{
         width: 0.9rem;
         height: 1.3rem;  
     }
